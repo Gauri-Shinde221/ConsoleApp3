@@ -18,7 +18,7 @@ namespace ConsoleApp3
         }
         static void Main(string[] args)
         {
-            int a;
+            int a,b,c,d;
             Program program = new Program();
             program.Addition();
         }
